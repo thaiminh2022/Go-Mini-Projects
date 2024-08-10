@@ -29,10 +29,10 @@ Return a json object with a result property
 }
 ```
 
-"/add": returns a + b
-"/minus": returns a - b
-"/multiply": returns a \* b
-"/divide": returns a / b
+- "/add": returns a + b
+- "/minus": returns a - b
+- "/multiply": returns a \* b
+- "/divide": returns a / b
 
 ## Errors
 
