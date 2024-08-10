@@ -7,5 +7,5 @@ Please read the readme of each project for further details </br>
 
 1. [Calculator api](./calculator_api/)
 1. [Currency Exchange](./go_currency_exchange/)
-1. [Todo cli](./go_todos/readme.md)
+1. [Todo cli](./go_todos/)
 1. [Url shortener](./go_url_shortener/)
